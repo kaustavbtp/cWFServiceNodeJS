@@ -1,7 +1,7 @@
 ---
 applications:
-- name: nodesample1
-  host: nodesample1
+- name: nodesample2
+  host: nodesample2
   buildpack: nodejs_buildpack
   memory: 128M
   command: node server
